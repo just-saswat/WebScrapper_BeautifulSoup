@@ -1,0 +1,4 @@
+[
+    ['            -47%\n          \n\n\nQuick view\n\n\n\n\n\n\n\n\n          Add to cart \n        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t        Add to wishlist\n\t\t    \n\n\n\r\n    \t\r\n    \t\tAdd to compare\r\n    \t\r\n        \r\n    \n\n\n\n\n\n\n\n\n\n\n5mm LDR - Light Dependent Resistor\n\n\n\nRs. 15.00\nRs. 8.00\n\n\n\n\n\n\n\n\n\n5mm LDR - Light Dependent Resistor\n\n\n\n          Diameter: 5mm No. of Pins: 2 Type of Mounting: PCB Through Hole Maximum Operating Temperature: +800°C (Approx.) Dark resistance:1-20 Mohm When light falls upon it then the resistance changes. Values of the resistance of the LDR may change over many...\n        \n\n\n\nRs. 15.00\nRs. 8.00\n\n\n\n\n\n\n\n\n\n\n          Add to cart \n        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t        Add to wishlist\n\t\t    '],
+    # ... (other product data)
+]
